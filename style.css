@@ -1,0 +1,92 @@
+
+/*Impostiamo lo stesso font per tutti i nostri testi*/
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#logo {
+    text-align: center;
+}
+
+
+#sottotitolo{
+    text-align: center;
+    font-weight: 500;
+    border-top: 2px solid rgb(245, 185, 96);
+    background-color: rgb(246, 246, 235);
+    width: 100%;
+    color: rgb(25, 88, 147);
+    padding: 10px;
+    margin-bottom: 70px;
+}
+
+
+/*Dimensione main*/
+.dim{
+    width: 700px;
+    margin: auto;
+    margin-top: 20px;
+}
+
+span{
+    display: block;
+}
+
+#titolo{
+    width: 600px;
+    margin: auto;
+    text-align: center;
+    font-weight: bold;
+    
+}
+
+/*Immagine in primo piano*/
+#img{
+    width: 700px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px rgb(206, 205, 205);
+    
+}
+
+/*Autore foto*/
+#ph{
+    text-align: center;
+    color: rgb(180, 180, 180);
+    padding: 20px;
+}
+
+div{
+    padding-left: 20px;
+}
+
+
+/*Feautured*/
+#fea{
+    border-left: 2px solid  rgb(245, 185, 96);
+    color: rgb(222, 36, 36);
+    margin:40px 0px 80px 0px;
+}
+
+
+h2{
+    padding-bottom: 40px;
+    border-bottom: 1px solid rgb(126, 179, 228);
+}
+
+
+ul{
+    line-height: 2.5em;
+    padding-left: 30px;
+}
+
+
+a{
+    color: rgb(25, 88, 147);
+    font-weight: bold;
+}
+
+
+
+
+
+
